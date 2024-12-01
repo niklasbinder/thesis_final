@@ -56,7 +56,7 @@ compare_go_detailed <- compareCluster(
 
 
 
-png("monocyte_GO_comparison.png", 
+png("macrophage_GO_comparison.png", 
     width = 10, 
     height = 8, 
     units = "in", 
